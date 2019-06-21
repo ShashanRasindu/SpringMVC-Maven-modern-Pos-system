@@ -6,7 +6,7 @@ git init
 ```
 2. Clone the repo
 ```sh
-git clone https://github.com/ShashanRasindu/SpringMVC-Maven-modern-Pos-system
+git clone https://github.com/ShashanRasindu/SpringMVC-Rest-Api-Connection-Pool-modern-Pos-system
 ```
 3. Import project via Intellij Idea
 
@@ -52,4 +52,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Shashan Rasindu - [@linkedin](https://www.linkedin.com/in/shashan-rasindu-a44308158/) - shashanrasindu@gmail.com
 
-Project Link: [https://github.com/ShashanRasindu/SpringMVC-Maven-modern-Pos-system](https://github.com/ShashanRasindu/SpringMVC-Maven-modern-Pos-system)
+Project Link: [https://github.com/ShashanRasindu/SpringMVC-Rest-Api-Connection-Pool-modern-Pos-system](https://github.com/ShashanRasindu/SpringMVC-Rest-Api-Connection-Pool-modern-Pos-system)
